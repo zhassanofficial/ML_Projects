@@ -54,9 +54,7 @@ We built and compared multiple machine learning models and deployed the best one
 
 ## 🖥️ Live Demo
 
-![Dashboard Demo](images/dashboard_demo.gif)
 
-*(Add a short animated GIF or a screenshot of the dashboard)*
 
 ---
 
@@ -72,9 +70,3 @@ We built and compared multiple machine learning models and deployed the best one
 
 ---
 
-## 📦 How to Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/telco-churn-prediction.git
-   cd telco-churn-prediction
